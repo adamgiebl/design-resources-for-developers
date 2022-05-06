@@ -170,7 +170,8 @@
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set |
 | [CSS gradient](https://cssgradient.io/)| A free website to make custom gradient and some examples of gradient |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
-| [UI Gradients](https://uigradients.com/)| UI gradients color generator |
+| [
+Gradients](https://uigradients.com/)| UI gradients color generator |
 | [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
 | [Grabient](https://www.grabient.com/) | Gradient Selector |
@@ -774,6 +775,7 @@
 | [CoreUI](https://coreui.io)| Bootstrap Admin Dashboard Template & UI Components Library |
 | [AgnosticUI](https://www.agnosticui.com/)| Accessible React component primitives that also work with Vue 3, Svelte, and Angular |
 | [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
+| [uiverse](https://uiverse.io)| Hundreds Open-Source UI elements, made with HTML & CSS. Anyone can contribute. Includes buttons, checkboxes, spinners, cards, inputs and more. |
 
 
 <div align="right">
